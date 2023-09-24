@@ -18,11 +18,11 @@
 
 <div style="display: flex; flex-direction: row;">
     <div><img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px></div>
-    <div>
-        <b><i>Rahil Shaikh</i></b><br>
-        <b><i>rahils416@gmail.com</i></b>
-    </div>
+    <b><i>Rahil Shaikh</i></b><br>
 </div>
+<p>
+Experienced Flutter developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Information Technology from Sarvajanik College of Engineering & Technology.
+</p>
 
 ---
 
