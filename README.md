@@ -1,5 +1,5 @@
 <html lang="en">
-<head>
+<!-- <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Your App Name</title>
@@ -71,7 +71,7 @@
             font-size: 24px; /* Adjust the size as needed */
         }
     </style>
-</head>
+</head> -->
 <body>
     <header>
         <h1>Your App Name</h1>
