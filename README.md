@@ -29,15 +29,11 @@
 <div style="text-align: center;">
     <div style="margin-right: 15px; display: inline-block;">
         <img src="ReadMeFileData/linkedin.png" alt="linkedin" width="20" height="20">
-    </div>
-    <div style="display: inline-block;">
         <a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
     </div>
     <br>
     <div style="margin-right: 5px; display: inline-block;">
         <img src="ReadMeFileData/github.png" alt="github" width="20" height="20">
-    </div>
-    <div style="display: inline-block;">
         <a href="https://github.com/RaahilShaikh">raahilshaikh</a>
     </div>
     <br>
