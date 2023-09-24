@@ -16,13 +16,9 @@
 
 ## Developer
 
-<div style="display: flex; flex-direction: column;">
-    <!-- Add Font Awesome icons for the developer -->
+<div style="display: flex; flex-direction: row;">
     <img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px>
-    <div>
-        <b><i>Rahil Shaikh</i></b><br>
-        <b><i>rahils416@gmail.com</i></b>
-    </div>
+    <img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px>
 </div>
 
 ---
