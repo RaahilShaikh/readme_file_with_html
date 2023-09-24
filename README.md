@@ -1,16 +1,6 @@
 # Your App Name
 
 *Enter your app description here.*
-<div style="display: flex;">
-  <div style="flex: 30%; background-color: #f2f2f2; padding: 10px;">
-    <h3>30% Width</h3>
-    <p>This column takes up 30% of the section width.</p>
-  </div>
-  <div style="flex: 70%; background-color: #e0e0e0; padding: 10px;">
-    <h3>70% Width</h3>
-    <p>This column takes up 70% of the section width.</p>
-  </div>
-</div>
 
 ---
 
@@ -26,28 +16,14 @@
 
 ## Developer
 
-<div style="display: flex; flex-direction: row;">
-    <div style="flex: 30;"><img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px></div>
-    <div style="flex:70;"><b><i>Rahil Shaikh</i></b></div>
-</div>
-<p>
-Experienced Flutter developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Information Technology from Sarvajanik College of Engineering & Technology.
-</p>
-
-<div style="display: flex;">
-  <div style="flex: 30%; background-color: #f2f2f2; padding: 10px;">
-    <h3>30% Width</h3>
-    <p>This column takes up 30% of the section width.</p>
-  </div>
-  <div style="flex: 70%; background-color: #e0e0e0; padding: 10px;">
-    <h3>70% Width</h3>
-    <p>This column takes up 70% of the section width.</p>
-  </div>
-</div>
+<img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 80px height= 80px border-radius= 50% margin-right= 10px>
+<b><i>Rahil Shaikh</i></b>
+<br>
+<p>Experienced Flutter developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Information Technology from Sarvajanik College of Engineering & Technology.</p>
 
 ---
 
-## Social Handles
+# Social Handles
 
 <p align="center">
   [![Facebook](facebook-icon.png)](https://www.facebook.com/)
