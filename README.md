@@ -24,6 +24,17 @@
 Experienced Flutter developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Information Technology from Sarvajanik College of Engineering & Technology.
 </p>
 
+<div style="display: flex;">
+    <div style="flex: 30%; padding: 10px; background-color: #f2f2f2;">
+        <h2>30% Width</h2>
+        <p>This column takes up 30% of the row width.</p>
+    </div>
+    <div style="flex: 70%; padding: 10px; background-color: #e0e0e0;">
+        <h2>70% Width</h2>
+        <p>This column takes up 70% of the row width.</p>
+    </div>
+</div>
+
 ---
 
 ## Social Handles
