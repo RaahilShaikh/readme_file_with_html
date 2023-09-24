@@ -26,9 +26,11 @@
 
 ## Social Handles
 
-<img src="ReadMeFileData/linkedin.png"  alt="linkedin" width="30" height="30" style="margin-right: 5px;"><a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
-<img src="ReadMeFileData/github.png"  alt="linkedin" width="30" height="30" style="margin-right: 5px;"><a href="https://github.com/RaahilShaikh">raahilshaikh</a>
-<img src="ReadMeFileData/mail.png"  alt="linkedin" width="30" height="30" style="margin-right: 5px;"><a href="">rahils416@gmail.com</a>
+<img src="ReadMeFileData/linkedin.png"  alt="linkedin" width="20" height="20" style="margin-right: 15px;"><a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
+<br>
+<img src="ReadMeFileData/github.png"  alt="linkedin" width="20" height="20" style="margin-right: 5px;"><a href="https://github.com/RaahilShaikh">raahilshaikh</a>
+<br>
+<img src="ReadMeFileData/mail.png"  alt="linkedin" width="20" height="20" style="margin-right: 5px;"><a href="">rahils416@gmail.com</a>
 
 ---
 
