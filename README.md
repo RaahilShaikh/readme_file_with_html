@@ -26,17 +26,17 @@
 
 ## Social Handles
 
-<div style="margin-right: 15px; display: inline-block; text-align: center;">
+<div style="display: inline-block; text-align: center;">
     <img src="ReadMeFileData/linkedin.png" alt="linkedin" width="20" height="20">
     <a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
 </div>
 <br>
-<div style="margin-right: 5px; display: inline-block; text-align: center;">
+<div style="display: inline-block; text-align: center;">
     <img src="ReadMeFileData/github.png" alt="github" width="20" height="20">
     <a href="https://github.com/RaahilShaikh">raahilshaikh</a>
 </div>
 <br>
-<div style="margin-right: 5px; display: inline-block; text-align: center;">
+<div style="display: inline-block; text-align: center;">
     <img src="ReadMeFileData/mail.png" alt="mail" width="20" height="20">
     <a href="mailto:rahils416@gmail.com">rahils416@gmail.com</a>
 </div>
