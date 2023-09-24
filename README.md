@@ -26,11 +26,28 @@
 
 ## Social Handles
 
-<img src="ReadMeFileData/linkedin.png"  alt="linkedin" width="20" height="20" style="margin-right: 15px;"><a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
-<br>
-<img src="ReadMeFileData/github.png"  alt="linkedin" width="20" height="20" style="margin-right: 5px;"><a href="https://github.com/RaahilShaikh">raahilshaikh</a>
-<br>
-<img src="ReadMeFileData/mail.png"  alt="linkedin" width="20" height="20" style="margin-right: 5px;"><a href="">rahils416@gmail.com</a>
+<div style="text-align: center;">
+    <div style="margin-right: 15px; display: inline-block;">
+        <img src="ReadMeFileData/linkedin.png" alt="linkedin" width="20" height="20">
+    </div>
+    <div style="display: inline-block;">
+        <a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
+    </div>
+    <br>
+    <div style="margin-right: 5px; display: inline-block;">
+        <img src="ReadMeFileData/github.png" alt="github" width="20" height="20">
+    </div>
+    <div style="display: inline-block;">
+        <a href="https://github.com/RaahilShaikh">raahilshaikh</a>
+    </div>
+    <br>
+    <div style="margin-right: 5px; display: inline-block;">
+        <img src="ReadMeFileData/mail.png" alt="mail" width="20" height="20">
+    </div>
+    <div style="display: inline-block;">
+        <a href="mailto:rahils416@gmail.com">rahils416@gmail.com</a>
+    </div>
+</div>
 
 ---
 
