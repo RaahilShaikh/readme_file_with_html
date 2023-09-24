@@ -15,6 +15,10 @@
 ---
 
 ## Developer
+.developer-info {
+display: flex;
+align-items: center;
+}
 
 <div class="developer-info">
     <!-- Add Font Awesome icons for the developer -->
