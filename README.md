@@ -16,20 +16,19 @@
 
 ## Developer
 
-<img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 80px height= 80px border-radius= 50% margin-right= 10px>
+<img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 80px height= 80px border-radius= 50% >
 <b><i>Rahil Shaikh</i></b>
+<br>
 <br>
 <p>Experienced Flutter developer with a demonstrated history of working in the information technology and services industry. Skilled in Mobile Application Development. Strong engineering professional with a Master of Computer Applications - MCA focused in Information Technology from Sarvajanik College of Engineering & Technology.</p>
 
 ---
 
-# Social Handles
+## Social Handles
 
-<p align="center">
-  [![Facebook](facebook-icon.png)](https://www.facebook.com/)
-  [![Twitter](twitter-icon.png)](https://twitter.com/)
-  [![LinkedIn](linkedin-icon.png)](https://www.linkedin.com/)
-</p>
+<img src="ReadMeFileData/linkedin.png"  alt="linkedin" width="30" height="30" style="margin-right: 5px;"><a href="https://www.linkedin.com/in/raahilshaikh/">raahilshaikh</a>
+<img src="ReadMeFileData/github.png"  alt="linkedin" width="30" height="30" style="margin-right: 5px;"><a href="https://github.com/RaahilShaikh">raahilshaikh</a>
+<img src="ReadMeFileData/mail.png"  alt="linkedin" width="30" height="30" style="margin-right: 5px;"><a href="">rahils416@gmail.com</a>
 
 ---
 
