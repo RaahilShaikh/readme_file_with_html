@@ -17,8 +17,11 @@
 ## Developer
 
 <div style="display: flex; flex-direction: row;">
-    <img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px>
-    <img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px>
+    <div><img src="ReadMeFileData/profile-icon.png" alt="Developer Image" width= 50px height= 50px border-radius= 50% margin-right= 10px></div>
+    <div>
+        <b><i>Rahil Shaikh</i></b><br>
+        <b><i>rahils416@gmail.com</i></b>
+    </div>
 </div>
 
 ---
