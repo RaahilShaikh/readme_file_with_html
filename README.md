@@ -43,8 +43,6 @@
     <br>
     <div style="margin-right: 5px; display: inline-block;">
         <img src="ReadMeFileData/mail.png" alt="mail" width="20" height="20">
-    </div>
-    <div style="display: inline-block;">
         <a href="mailto:rahils416@gmail.com">rahils416@gmail.com</a>
     </div>
 </div>
